@@ -34,6 +34,7 @@ width: 50%;
 margin: auto;
 height: 110%;
 background-color: rgb(122, 120, 120);
+
 }
 
 a
@@ -60,3 +61,23 @@ width: 50%;
 {
 width: 60%;
 }
+#container {
+    margin: auto;
+    width: 50%;
+    aspect-ratio: 2/1;
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+  }
+  .green {
+    
+    margin-bottom: 10px;
+    width: 60%;}
+    .a
+    {
+        width: 140%;
+    }
