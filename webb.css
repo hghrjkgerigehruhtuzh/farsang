@@ -61,51 +61,5 @@ width: 50%;
 {
 width: 60%;
 }
-#container {
-    margin: auto;
-    width: 50%;
-    aspect-ratio: 2/1;
-    border: 1px solid black;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    justify-items: center;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    
-  }
-  .green {
-    
-    margin-bottom: 10px;
-    width: 60%;}
-    .a
-    {
-        width: 140%;
-    }
 
-nav {
-    background-color: #f8f8f8; 
-    padding: 10px 0;
-}
-
-.nav-links {
-    list-style: none; 
-    display: flex;    
-    justify-content: center;
-    margin: 0;
-    padding: 0;
-}
-
-.nav-links li {
-    margin: 0 20px; 
-}
-
-.nav-links a {
-    text-decoration: none; 
-    color: #333;
-    font-weight: bold;
-}
-
-.nav-links a:hover {
-    color: #ff6600; 
-}
 
